@@ -4,17 +4,10 @@ a:link, a:visited {
     padding: 14px 25px;
     text-align: center; 
     text-decoration: none;
+    font-family: 'Arial', sans-serif;
     display: inline-block;
 }
 
 a:hover, a:active {
     background-color: deepskyblue;
-}
-
-.main {
-    background: url('Pictureone.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: left top;
 }
