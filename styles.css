@@ -90,8 +90,10 @@ button:hover{
     font-size: 16px;
 }
 .title{
+    position: absolute;
     font-family: sans-serif;
     left: 30%;
     font-size: 32px;
+    top: 1%;
 }
 
