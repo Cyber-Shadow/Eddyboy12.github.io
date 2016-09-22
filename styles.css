@@ -58,3 +58,23 @@ body{
     color: white;
     overflow-x: hidden;
 }
+.link1{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.link2{
+    position: absolute;
+    left: 40%;
+    top: 45%;
+}
+.link3{
+    position: absolute;
+    left: 40%;
+    top: 70%;
+}
+.link4{
+    position: absolute;
+    left: 40%;
+    top: 95%;
+}
