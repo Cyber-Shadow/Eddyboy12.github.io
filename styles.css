@@ -67,7 +67,7 @@ body{
     position: static;
     left: 0%;
     top: 0%;
-    background: url('../images/background.gif');
+    background: url('background.gif');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
