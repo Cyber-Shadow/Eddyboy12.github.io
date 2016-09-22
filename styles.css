@@ -61,21 +61,21 @@ body{
 .link1{
     position: absolute;
     top: 25%;
-    left: 20%;
+    left: 25%;
 }
 .link2{
     position: absolute;
-    left: 20%;
+    left: 25%;
     top: 45%;
 }
 .link3{
     position: absolute;
-    left: 20%;
+    left: 25%;
     top: 65%;
 }
 .link4{
     position: absolute;
-    left: 20%;
+    left: 25%;
     top: 85%;
 }
 button:hover{
