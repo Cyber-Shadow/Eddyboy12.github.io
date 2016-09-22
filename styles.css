@@ -10,7 +10,7 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: deepskyblue;
 }
-a{
+button{
     display: block;
     border: 5px solid rgb(255, 255, 255);
     height: 10%;
@@ -21,6 +21,7 @@ a{
     color: white;
     top: 60%;
     font-size: 24px;
+    text-align: center;
 }
 a{
     background-color: white;
@@ -59,4 +60,16 @@ a{
 }
 ::-webkit-scrollbar-corner {
   background: transparent;
+}
+body{
+    height: 100%;
+    width: 100%;
+    position: static;
+    left: 0%;
+    top: 0%;
+    background: url('../images/background.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: left top;
 }
